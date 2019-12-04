@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/Home.js","store/store.js"],"names":[],"mappings":"AAAA;ACAA;AACA;AAEA;AACA;AAEA;AACA;AAEA;AACA","file":"all.js","sourcesContent":["","// const store = new Vuex.Store({\r\n//     state: {\r\n        \r\n//     },\r\n//     mutations: {\r\n        \r\n//     },\r\n//     actions: {\r\n       \r\n//     }\r\n// })"]}
